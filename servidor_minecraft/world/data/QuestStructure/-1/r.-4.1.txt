@@ -1,0 +1,12 @@
+NetherThorn4,-2488,-2468,571,593
+NetherThorn,-2506,-2480,590,608
+NetherThorn3,-2437,-2419,591,617
+NetherThorn5,-2389,-2378,656,681
+NetherThorn3,-2462,-2436,721,739
+NetherThorn,-2437,-2419,723,749
+NetherThorn1,-2207,-2188,796,812
+NetherThorn2,-2189,-2177,737,750
+NetherThorn,-2188,-2162,764,782
+NetherThorn2,-2528,-2516,859,872
+NetherThorn1,-2552,-2536,963,982
+NetherThorn5,-2555,-2544,971,996

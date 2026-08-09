@@ -1,0 +1,36 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mujmajnkraftsbettersurvival:items/iteminvarnunchaku"
+  },
+  "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 75, 90, 0 ],
+            "translation": [ 0.00, 9.00, 0.00 ],
+            "scale": [ 1.70, 1.70, 1.70 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 75, -90, 0 ],
+            "translation": [ 0.00, 9.00, 0.00 ],
+            "scale": [ 1.70, 1.70, 1.70 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 15, 90, 0 ],
+            "translation": [ 0.00, 6.00, 0.00 ],
+            "scale": [ 1.36, 1.36, 1.36 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 15, -90, 0 ],
+            "translation": [ 0.00, 6.00, 0.00 ],
+            "scale": [ 1.36, 1.36, 1.36 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "spinning": 1
+            },
+            "model": "mujmajnkraftsbettersurvival:item/iteminvarnunchakuspinning"
+        }
+    ]
+}

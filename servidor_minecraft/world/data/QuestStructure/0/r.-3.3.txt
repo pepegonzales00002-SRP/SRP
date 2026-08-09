@@ -1,0 +1,3 @@
+ShrineSmallAir,-1588,-1580,1920,1928
+StonePlantMound,-1592,-1587,1538,1543
+StonePlantBoulder,-1649,-1639,1913,1923

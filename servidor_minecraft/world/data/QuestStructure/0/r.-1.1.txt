@@ -1,0 +1,6 @@
+StonePlantMound,-520,-515,538,543
+StonePlantMound3,-523,-514,520,531
+StonePlantMound4,-623,-616,836,843
+Gate_1,-1013,-963,889,907
+DinosaurSkull,-867,-856,532,551
+GiganticTree,-976,-898,987,1056

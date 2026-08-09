@@ -1,0 +1,2 @@
+StonePlantMound1,-1839,-1833,-523,-517
+PestilentialTreeStageI,-1845,-1837,-573,-564

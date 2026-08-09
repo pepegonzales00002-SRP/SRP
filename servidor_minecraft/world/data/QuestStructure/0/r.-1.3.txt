@@ -1,0 +1,7 @@
+StonePlantMound,-806,-801,1606,1611
+StonePlantMound3,-845,-836,1640,1651
+StoneBoulder,-882,-873,1658,1667
+StonePlantBoulder,-883,-873,1581,1591
+WoodWallRemains,-906,-898,1546,1574
+ShrineSmallFire,-948,-938,1777,1787
+ShrineSmallFire,-904,-894,2014,2024

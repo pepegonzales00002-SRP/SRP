@@ -1,0 +1,13 @@
+StonePlantBoulder,527,537,191,201
+StoneBoulder,534,543,314,323
+StoneLeafMound,612,619,159,168
+StonePlantMound2,634,647,134,146
+StonePlantMound4,677,684,82,89
+SmallCart,685,692,98,102
+StonePlantMound3,716,727,132,141
+ClayWaterMound1,708,718,151,162
+WoodThorn,716,727,-89,-78
+DinosaurSkull,731,742,-7,12
+MysticalTree2,729,739,-71,-61
+ShrineSmallFire,739,749,216,226
+StonePlantMound1,547,553,-250,-244

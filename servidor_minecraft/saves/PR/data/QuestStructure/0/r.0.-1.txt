@@ -1,0 +1,3 @@
+ShrineSmallFire,-50,-40,-549,-539
+SmallAbandonedMine,-258,-243,-563,-538
+SmallFortRuins,-331,-299,-545,-515

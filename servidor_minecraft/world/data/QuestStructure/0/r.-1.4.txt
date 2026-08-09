@@ -1,0 +1,8 @@
+StonePlantMound3,-998,-989,2258,2269
+StonePlantMound2,-977,-964,2262,2274
+<<<<<<< HEAD
+=======
+StonePlantMound2,-852,-840,2529,2542
+StoneBoulder,-782,-773,2464,2473
+>>>>>>> 310890e ([🌙] Historial reiniciado 2026-07-31)
+Watchtower_1,-932,-918,2315,2331

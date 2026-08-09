@@ -1,0 +1,15 @@
+NetherThorn2,-1849,-1837,108,121
+NetherThorn5,-1875,-1850,184,195
+NetherThorn3,-1890,-1864,65,83
+NetherThorn4,-1912,-1892,181,203
+NetherThorn3,-2019,-1993,339,357
+NetherThorn5,-2046,-2035,338,363
+NetherThorn5,-2053,-2042,351,376
+NetherThorn3,-1692,-1674,-3,23
+NetherThorn2,-2009,-1996,417,429
+NetherThorn,-1678,-1660,-101,-75
+NetherThorn,-1594,-1576,-112,-86
+NetherThorn4,-1686,-1666,-136,-114
+NetherThorn2,-1663,-1651,-170,-157
+NetherThorn1,-1574,-1558,-296,-277
+NetherThorn1,-1603,-1584,-332,-316

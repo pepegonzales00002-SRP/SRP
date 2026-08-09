@@ -1,0 +1,9 @@
+StonePlantMound2,507,519,207,220
+PestilentialTreeStageI,555,563,-82,-73
+Watchtower_2,604,622,-83,-65
+ShrineSmallFire,693,703,40,50
+UndergroundTreeoid,652,678,-198,-175
+WoodPile,652,656,-223,-219
+ShrineSmallFire,665,675,-252,-242
+StonePlantMound4,747,754,-120,-113
+StonePlantMound3,759,768,-97,-86

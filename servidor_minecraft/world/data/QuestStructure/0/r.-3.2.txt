@@ -1,0 +1,16 @@
+StonePlantMound1,-1578,-1572,1517,1523
+SmallOutpost,-1581,-1551,1501,1523
+StonePlantMound,-1561,-1556,1049,1054
+StonePlantMound,-1690,-1685,1028,1033
+SmallOutpost,-1730,-1700,1121,1143
+PestilentialTreeStageII,-1778,-1751,1151,1179
+StonePlantBoulder,-1786,-1776,1182,1192
+UndergroundCrypt,-1839,-1811,1096,1110
+UndergroundTreeoid,-1836,-1810,1188,1211
+StonePlantMound3,-1849,-1838,1044,1053
+WoodPile,-1988,-1984,1032,1036
+StonePlantMound2,-1993,-1981,1080,1093
+StoneBoulder,-1998,-1989,1054,1063
+StonePlantMound3,-2005,-1996,1075,1086
+Magictower_1,-2028,-2012,1101,1117
+StonePlantMound1,-2032,-2026,1145,1151

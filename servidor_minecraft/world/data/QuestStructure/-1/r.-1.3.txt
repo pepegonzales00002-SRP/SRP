@@ -1,0 +1,7 @@
+NetherThorn5,-647,-622,1581,1592
+NetherThorn,-677,-651,1622,1640
+NetherThorn1,-704,-685,1832,1848
+NetherThorn3,-671,-653,1851,1877
+NetherThorn4,-592,-572,1924,1946
+NetherThorn4,-578,-556,1986,2006
+NetherThorn3,-903,-885,1688,1714

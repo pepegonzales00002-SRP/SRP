@@ -1,0 +1,4 @@
+NetherThorn3,-483,-465,2010,2036
+NetherThorn4,-453,-433,2035,2057
+NetherThorn1,-353,-337,2026,2045
+NetherThorn3,-395,-369,2037,2055

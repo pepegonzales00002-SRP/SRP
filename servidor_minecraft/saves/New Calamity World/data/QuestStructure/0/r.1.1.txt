@@ -1,0 +1,7 @@
+StonePlantMound,780,785,520,525
+VillageMarketplace,778,792,575,589
+VillageMarketplace,778,792,575,589
+Watchtower_1,845,859,529,545
+StonePlantMound4,858,865,550,557
+StonePlantMound4,872,879,548,555
+StonePlantMound1,926,932,545,551

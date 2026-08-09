@@ -1,0 +1,4 @@
+NetherThorn1,-2112,-2093,301,317
+NetherThorn,-2122,-2096,114,132
+NetherThorn2,-2478,-2466,439,452
+NetherThorn4,-2510,-2488,497,517

@@ -1,0 +1,21 @@
+{
+     "type": "forge:ore_shaped",
+     "pattern": [
+        "sss",
+        "sds",
+        "sss"
+     ],
+     "key": {
+        "s": {
+            "item": "diamondglass:diamond_glass"
+         },
+         "d": {
+           "type": "forge:ore_dict",
+           "ore": "dyeBlue"
+         }
+     },
+    "result": {
+        "item": "diamondglass:diamond_glass_blue",
+        "count": 8
+     }
+ }
